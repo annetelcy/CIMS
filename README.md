@@ -48,24 +48,26 @@ Ensure you have Python and pip installed on your system.
 
 ### This shows the first part of the dashboard which contains the Products and Locations sections
 
-![Dashboard Screenshot](screenshots\Dashboard.png) 
+<img width="902" alt="image" src="https://github.com/annetelcy/CIMS/assets/99223782/1f7627a6-8395-4807-9c4c-552da672cbf1">
 
 ### This shows the second part of the dashboard while you can add and display locations
 
-![Locations Screenshot](screenshots\Locations.png)  
+<img width="911" alt="image" src="https://github.com/annetelcy/CIMS/assets/99223782/29742b05-9efe-4ff9-b22c-4f44d31c687a">
+
 
 ### This shows the Movements section which illustrates source and destination of a product
 
-
-![Movement Screenshot](screenshots\Movement.png)  
+<img width="791" alt="image" src="https://github.com/annetelcy/CIMS/assets/99223782/7b827b77-e0b1-4106-bf43-64c768b9dfe7">
 
 ### Display  the momevements recorded
 
-![MovementTable Screenshot](screenshots\MovementTable.png)  
+<img width="791" alt="image" src="https://github.com/annetelcy/CIMS/assets/99223782/22832119-f453-4e15-899b-0c9ab2d76adf">
+
 
 ### Demonstrate the product balance reports  which indicates the quantities of each product in each location
 
-![balanceReport Screenshot](screenshots\balanceReport.png)  
+<img width="787" alt="image" src="https://github.com/annetelcy/CIMS/assets/99223782/8b09bdf0-ac7e-4157-a530-5d8df7f559ca">
+
 
 
 
