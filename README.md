@@ -1,3 +1,5 @@
+# Please see this link below that demonstrates my algorithmic solutions 
+https://annes-whiteboard.gitbook.io/whiteboard/
 
 
 # Clinical Inventory Management System (CIMS)
